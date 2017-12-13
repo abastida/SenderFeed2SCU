@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUJI.SenderFeed2SCU.Service", "FUJI.SenderFeed2SCU.Service\FUJI.SenderFeed2SCU.Service.csproj", "{73A829F7-C04D-4829-B998-38844DB507A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{5E80ED0C-D14A-47D5-9B11-EA4552B583AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A829F7-C04D-4829-B998-38844DB507A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A829F7-C04D-4829-B998-38844DB507A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A829F7-C04D-4829-B998-38844DB507A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A829F7-C04D-4829-B998-38844DB507A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E80ED0C-D14A-47D5-9B11-EA4552B583AF}.Debug|Any CPU.ActiveCfg = Debug
+		{5E80ED0C-D14A-47D5-9B11-EA4552B583AF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7112F2AD-97D1-4067-87B2-8D04236D2897}
+	EndGlobalSection
+EndGlobal
